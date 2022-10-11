@@ -22,8 +22,14 @@ h3 {
     text-align: center;
     margin: 20px;
 }
+
+h2:hover,
+h3:hover {
+    color: cyan;
+}
+
 h5 {
-    color: blueviolet;
+    color: cyan;
     text-align: right;
     margin: 10px;
 }
@@ -31,5 +37,13 @@ h5 {
 hr {
     width: 90px;
     background-color: cyan;
+}
+
+figure.img1 {
+    background: url(../imgs/img1.jpg) no-repeat center;
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    border: 2px dotted cyan;
 }
 
