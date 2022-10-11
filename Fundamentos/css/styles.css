@@ -6,6 +6,9 @@ body {
 h1 {
     color: cyan;
     text-align: center;
+    background-color: rgba(240, 255, 255, 0.332);
+    width: 300px;
+    margin: 10px auto;
 }
 
 h2 {
@@ -14,7 +17,19 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+h5 {
+    color: blueviolet;
+    text-align: right;
+    margin: 10px;
+}
+
 hr {
     width: 90px;
     background-color: cyan;
 }
+
