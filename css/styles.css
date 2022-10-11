@@ -54,3 +54,7 @@ figure.img1 {
     margin: 0 auto;
     border: 2px dotted cyan;
 }
+
+li {
+    color: cyan;
+}
