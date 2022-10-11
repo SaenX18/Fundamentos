@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    border: 3px solid cyan;
+}
+
+h1 {
+    color: cyan;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    margin: 20px;
+    text-align: center;
+}
+
+hr {
+    width: 90px;
+    background-color: cyan;
+}
