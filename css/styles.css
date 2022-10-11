@@ -17,6 +17,14 @@ h2 {
     text-align: center;
 }
 
+h2 b {
+    color: cyan;
+}
+
+h2 b:hover {
+    color: white;
+}
+
 h3 {
     color: white;
     text-align: center;
@@ -46,4 +54,3 @@ figure.img1 {
     margin: 0 auto;
     border: 2px dotted cyan;
 }
-
